@@ -2,4 +2,4 @@
 
 ### Nao apague a linha acima! ###
 cd ~/joao
-cp -r /etc/systemd .
+cp -r /etc/systemd 
