@@ -2,4 +2,4 @@
 
 ### Nao apague a linha acima! ###
 cd ~/joao
-sudo cp -r /etc/systemd .
+sudo cp -r /etc/systemd ./
